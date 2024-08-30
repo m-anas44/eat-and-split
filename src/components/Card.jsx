@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Section from "./section";
+import Section from "./Section";
 import { GuestTodoContextProvider } from "../context/GuestTodoContext";
 
 const Card = () => {
